@@ -31,7 +31,6 @@ Socials 👉🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sohyangjeon)](https://www.linkedin.com/in/sohyangjeon)
 
-<br>
 
 ---
 
